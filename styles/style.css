@@ -123,11 +123,11 @@ body {
     font-weight: 400;
 }
 
-span{
+/*span{
     color: var(--cor-terciaria);
     border: 1px solid var(--cor-terciaria);
     padding: 10px;
-}
+}*/
 
 @media (max-width: 1200px) {
     body {
