@@ -1,4 +1,6 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio 
+
+Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](https://github.com/lucasagw/portfolio/blob/main/assets/home_portfolio.jpeg)
 
